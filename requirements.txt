@@ -1,4 +1,4 @@
-yDjango
+Django
 psycopg2-binary
 python-dotenv
 whitenoise
